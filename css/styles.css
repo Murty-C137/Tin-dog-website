@@ -141,6 +141,23 @@ p {
   margin: 20px 20px 50px;
 }
 
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* CTA Section */
+
 
 /* Footer Section */
 
@@ -155,4 +172,8 @@ p {
     text-align: center;
   }
 
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }
